@@ -1,0 +1,4 @@
+<apex:page sidebar="false" controller="Visualforce_Error_Controller">
+{!badList}
+{!nullAccount}
+</apex:page>
